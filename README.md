@@ -10,7 +10,7 @@ Done.
 Saved to box or my PC.
 
 ### DAG - directed acyclic graph (from E to L)
-See figure: PR2_Yuyi.png
+See figure: PR2_Yuyi.jpeg
 This was made by tools: https://www.dagitty.net/dags.html#
 
 
